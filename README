@@ -1,0 +1,10 @@
+A:
+00000000004004b4 T _Z7averagePdRd (Pointer Double和Referece Double)
+00000000004004e2 T _Z7averageif (Integer和Float)
+
+B:
+1 8 (char佔1byte,pointer佔8bytes)
+4 8	(int佔4bytes)
+4 8 (float佔4bytes)
+8 8 (double佔8bytes)
+
